@@ -1,3 +1,3 @@
-# TODO app Node.js
+# TODO app NodeJS
 
-Aplicación para apuntar tareas pendientes en Node.js
+Aplicación para apuntar tareas pendientes en NodeJS
